@@ -37,7 +37,7 @@ Conway’s Game of Life is a zero-player game invented by mathematician **John C
 
 ## 🌐 Live Demo
 
-🔗 [**Click here to view the live demo**](https://conways-game-of-life-taupe.vercel.app/)  
+🔗 [**Click here to view the live demo**](https://conways-game-of-life-red.vercel.app/)  
 
 ---
 
