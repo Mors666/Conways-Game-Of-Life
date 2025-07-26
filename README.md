@@ -31,7 +31,7 @@ Conway’s Game of Life is a zero-player game invented by mathematician **John C
 ## 📸 Preview
 
 > _Here’s a quick look at the interface 
-![Preview](preview.png)
+![Preview](https://github.com/Mors666/Conways-Game-Of-Life/blob/main/public/Conway's%20Game%20Of%20Life%20gif.gif?raw=true)
 
 ---
 
